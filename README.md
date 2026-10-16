@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 
+Screenshot_20261016-184305.jpg
 <!--
 **6ickbvy/6ickbvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
